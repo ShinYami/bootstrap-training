@@ -1,4 +1,19 @@
-.red {
-    height: 700px;
-    background-color: black;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Open+Sans:wght@400;600&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+#carouselExampleControls {
+    margin-top: 30px;
+}
+
+#text {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
